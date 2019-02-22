@@ -4,7 +4,7 @@ I have split this project into 2 parts- performing an exploratory data analysis 
 ![titanic](https://unsplash.com/photos/ZjSdIwwcjgk/download?force=true)
 
 ## Motivation
-Everyone knows about the huge unfornate incident of Titanic crash, we also have the dataset containing the information of all the passengers present during the crash readily available on the web. Why don't we simply use it to predict what kind of passengers were given high priority to rescue first? I wanted my first project on GitHub to be really meaningful and not just anything for the sake of it. I initially performed this whole piece of code in R but then writing it on Python was a completely different experience.
+Everyone knows about the huge unfornate incident of Titanic crash, we also have the dataset containing the information of all the passengers present during the crash readily available on the web. Why don't we simply use it to predict what kind of passengers were given high priority to rescue first? I wanted my first project on GitHub to be a really meaningful one and not just anything. I initially performed this whole piece of code in R (while I was learning) but then writing it on Python was a completely different experience.
 
 ## Pre-requisites
 - Basics of Python programming (refer: https://www.pythonforbeginners.com/basics/break-and-continue-statements)
